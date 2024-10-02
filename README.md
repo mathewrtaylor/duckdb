@@ -3,6 +3,7 @@
 
 This is an introduction to DuckDB in the Python world, using Pandas to compare performance.
 
+![DuckDB Intro](images/tutorial_title.png)
 
 ## Authors
 
